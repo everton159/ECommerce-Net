@@ -1,5 +1,5 @@
-# loja
+# Web Loja
 
-Exemplo de loja utilizando ASP.Net, C#, Entity Framework, MSSQL. 
+Projeto prático de um ecommerce utilizando Asp.Net, C#, Entity Framework.
 
-Arquitetura N-Tier.
+Utilizando Arquitetura N-Tier.
